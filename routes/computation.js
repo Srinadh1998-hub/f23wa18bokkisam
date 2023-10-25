@@ -9,7 +9,7 @@ router.get('/', function (req, res, next) {
         val = search_params.get("x")
         if(val === null)
         {
-            val=Math.round(Math.random()*512);
+            val=Math.round(Math.random()*12);
         }     
         res.writeHead(200, { 'Content-Type': 'text/html' });
         res.write('Math.abs() applied to ' + val + ' is ' + Math.abs(val));
