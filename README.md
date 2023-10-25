@@ -1,3 +1,3 @@
 # f23wa18bokkisam
 
-My render page Link :[Live Page](https://f23wa18bokkisam.onrender.com)
+My remote render server Link :[Live Page](https://f23wa18bokkisam.onrender.com)
